@@ -1,4 +1,4 @@
-# Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)
+# Bureau of Evolutionary Alternatives and Solutions in Transgenics 
 
 **Also known as: The Department of Unintelligent Design**
 
