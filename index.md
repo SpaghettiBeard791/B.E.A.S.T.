@@ -35,8 +35,21 @@ A cold-blooded bird-reptile hybrid. Scales meet tuxedo plumage in a creature tha
 
 ---
 
-## UD-003: Girapincle  
-A towering giraffe head atop a crab's armored body. Eight legs scuttle sideways while the long neck wobbles uncertainly. Pincers gesture aimlessly; the creature seems perpetually confused by its own design. Eats only by accident.
+## UD-003: Girapincle
+**Catalogued by:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
+**File Code:** BEAST/GRP-003/CRUST-MAMM  
+
+*Family:* Giraffocarcinidae  
+*Genus:* Macropalpinocamelopardalis  
+*Species:* M. crustaceocephalus  
+
+The Girapincle is a biologically implausible fusion of terrestrial browsing mammal and marine arthropod. It combines the upper anatomy of a juvenile giraffe with the armored body and grasping pincers of a common crab—presumably for reasons now lost to institutional misfiling.
+
+Its elongated neck and delicate ossicones appear comically mismatched with the chitinous exoskeleton and eight spindly legs designed for sideways scuttling. Notably, the Girapincle is unable to perform either galloping or proper molting, often attempting both at once with limited success.
+
+When startled, it emits a brittle rustling sound and attempts to sway menacingly—usually in the wrong direction. The creature’s two primary claws are capable of fine motor manipulation, yet it exhibits no interest in tool use or abstract thought.
+
+Originally approved under Sub-Directive 14(b): "Enhancement of Biodiversity Through Inter-Phylum Synergy." The Girapincle remains a symbol of departmental ambition, procedural opacity, and the triumph of form over function.
 
 ---
 
@@ -75,18 +88,55 @@ A burrowing predator with a shark’s head and a mole’s claws. Cannot see, sme
 
 ---
 
-## UD-011: Slotheetah  
-Front half sloth, rear half cheetah. Designed for speed and energy conservation, it achieves neither. Capable of incredible bursts of velocity—usually several hours after the initial impulse. Often found napping mid-pursuit.
+## UD-011: Slotheetah
+**Catalogued by:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
+**File Code:** BEAST/SLCH-011/FELID-MISC  
+
+*Family:* Bradynonidae  
+*Genus:* Acchelopygus  
+*Species:* A. delayensis  
+
+The Slotheetah is a deeply confused amalgam of cheetah and sloth, designed with the apparent intent of merging “explosive speed” with “energy preservation.” The result is a creature capable of incredible bursts of velocity—usually several hours after the initial impulse.
+
+It features a long, lean feline body draped in shaggy, moss-mottled fur, with limbs that dangle like rope when not reluctantly employed. The cheetah’s facial stripes are present but droop downward in a permanent expression of regret. Its claws are both retractable and hooked, ideal for either pouncing or slowly grasping the same branch for three days.
+
+When startled, the Slotheetah may emit a screech and attempt to run—often forgetting which direction, or that it's still lying down. Hunting technique: wait for prey to die of old age or wander into its mouth.
+
+Designed under the “Predator Efficiency Enhancement Program.” Currently reassigned as mascot of the Department of Initiative Paralysis.
 
 ---
 
-## UD-012: Crustaviant  
-Seagull upper body fused with a prawn's lower half. Intended for coastal cleanup, it flaps erratically, unable to fly or swim effectively. Pincers grasp at litter; success is rare. Wings panic while claws do paperwork.
+## UD-012: Crustaviant
+**Catalogued by:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
+**File Code:** BEAST/CRVG-012/AVICRUST  
+
+*Family:* Laridecapodidae  
+*Genus:* Scuttivolans  
+*Species:* S. maladaptus  
+
+The Crustaviant is a half-seagull, half-prawn hybrid developed as a "littoral-zone cleansing organism with autonomous sorting capability." Intended to scoop floating waste with claws and fly it inland, the result was a creature fundamentally confused about whether it should land, swim, or molt.
+
+Its upper body is that of a gull, complete with beady eyes and an accusatory screech. Below the wings, however, the thorax transitions abruptly into a segmented, armored prawn abdomen. Two oversized pincers hang where feet might be expected, and eight smaller legs dangle uselessly behind.
+
+Crustaviants circle coastlines in tight, panicked loops, attempting to land on their own claws. Their grooming rituals are intense and futile. When stressed (which is constant), they emit snapping sounds and drop small pebbles on observers.
+
+Originally a flagship under Initiative 7.3B: “Marine Avian Modular Utility Chassis.” Reclassified as aesthetic-only following several public disturbances.
 
 ---
 
-## UD-013: Squirrpent  
-A cartoonishly disgruntled squirrel head with large fangs, perched on a long coiled snake body. Its fangs are so long they skewer its food—typically hazelnuts—which get stuck and stay there. Agile, hungry, and perpetually betrayed by its own mouth.
+## UD-013: Squirrpent
+**Catalogued by:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
+**File Code:** BEAST/SQNK-013/RODHERP  
+
+*Family:* Sciuridaephidae  
+*Genus:* Gnathopellis  
+*Species:* G. impalatus  
+
+The Squirrpent is a lean, elongated hybrid between squirrel and snake, spliced in the service of urban waste management. The front half is an energetic, fuzzy squirrel with twitchy limbs and a bushy tail at the rear. The head is serpentine—with oversized fangs designed to puncture waste packaging.
+
+In theory, it could slither into tight bins, retrieve recyclable materials, and exit gracefully. In practice, it spends most of its time with a nut impaled on one fang, jerking its head and making wet squeaks.
+
+Prey includes bottle caps, sandwich crusts, and shoelaces. Highly mobile, easily startled, and emotionally vulnerable. Juveniles often spend their early weeks attempting to unskewer their first meal.
 
 ---
 
@@ -95,8 +145,21 @@ A lobster’s body with oversized butterfly wings. Designed to pollinate with be
 
 ---
 
-## UD-015: Toaderfly  
-A warty toad with vibrant butterfly wings. Meant to pollinate alpine flowers, it instead hops erratically and collapses with a sparkle. Croaks plaintively. Leaves glitter trails in its wake. Resigned to earthbound beauty.
+## UD-015: Toaderfly
+**Catalogued by:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
+**File Code:** BEAST/BTDF-015/AMPHILEP  
+
+*Family:* Bufonilepidoptera  
+*Genus:* Croacilla  
+*Species:* C. mucosavola  
+
+The Toaderfly was conceived during B.E.A.S.T.’s Pollinator Expansion Initiative, intended to serve as a fluttering amphibian vector capable of pollinating high-altitude flora while secreting helpful enzymes. The result: a soggy toad with enormous, fragile butterfly wings.
+
+Its movements resemble a windsock in a mudslide. It croaks softly, hops optimistically, and collapses almost immediately. The wings are beautiful and wholly unfit for propulsion. Emotional fragility suspected.
+
+Feeds on flies and moss, though it rarely catches either. Leaves glittering wing-dust wherever it goes. Eggs are laid on flower stems, which often droop under their gelatinous weight.
+
+Nominated once as departmental mascot. Vomited on a diplomat. Now reassigned as an educational case study in "aesthetic intention versus biological consequence."
 
 ---
 
