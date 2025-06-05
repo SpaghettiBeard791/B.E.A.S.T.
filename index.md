@@ -255,26 +255,35 @@ Prey includes bottle caps, sandwich crusts, and shoelaces. Highly mobile, easily
 
 ---
 
-## UD-014: Lobterfly  
-A lobster’s body with oversized butterfly wings. Designed to pollinate with beauty and resilience. Unfortunately, its armor is too heavy for flight, and its wings drag behind like soggy wallpaper. Flaps defiantly while going nowhere.
+## UD-014: Toaderfly
+**Catalogued by:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
+**File Code:** BEAST/TDFL-014/AMPHIBINSECT  
+
+*Family:* Bufolepididae  
+*Genus:* Lickaptera  
+*Species:* L. glamorglomus  
+
+Created to promote “beauty with utility,” the Toaderfly is a vivid blend of toad and butterfly, combining warts and wings with tragic majesty. It was envisioned as an airborne bug-reduction system capable of inspiring awe and mild discomfort.
+
+Its body is lumpy, moist, and entirely unfit for flight. Its wings, though expansive and iridescent, are ill-suited to supporting its bulk and instead serve as visual decoys for predators and romantics. It mostly shuffles along garden beds while wheezing.
+
+Males sing by croaking in chordal clusters. Females prefer silence and camouflage. Both secrete a hallucinogenic slime when threatened, excited, or lightly complimented.
+
+Rejected by florists, yet adored by surrealist painters.
 
 ---
 
-## UD-015: Toaderfly
-**Catalogued by:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
-**File Code:** BEAST/BTDF-015/AMPHILEP  
+## UD-015: B.E.A.S.T. Headquarters
+**Catalogued Site:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.) Central Building  
+**Alias:** The Department of Unintelligent Design  
 
-*Family:* Bufonilepidoptera  
-*Genus:* Croacilla  
-*Species:* C. mucosavola  
+Located at the intersection of ambition and oversight, the headquarters of B.E.A.S.T. is an architectural chimera composed of brutalist concrete slabs, neoclassical columns, and a misplaced glass atrium that reflects nothing but regret.
 
-The Toaderfly was conceived during B.E.A.S.T.’s Pollinator Expansion Initiative, intended to serve as a fluttering amphibian vector capable of pollinating high-altitude flora while secreting helpful enzymes. The result: a soggy toad with enormous, fragile butterfly wings.
+Originally a repurposed opera house, then a municipal data center, then a taxidermy academy, the structure was never demolished—just continually built around. Elevators stop at unnumbered floors. Security checkpoints lead to gift shops. Half the building has no plumbing; the other half has too much.
 
-Its movements resemble a windsock in a mudslide. It croaks softly, hops optimistically, and collapses almost immediately. The wings are beautiful and wholly unfit for propulsion. Emotional fragility suspected.
+A banner above the main entrance reads: “Progress through Combination.” Someone spray-painted “Confusion through Design” beneath it in the mid-90s. The message remains.
 
-Feeds on flies and moss, though it rarely catches either. Leaves glittering wing-dust wherever it goes. Eggs are laid on flower stems, which often droop under their gelatinous weight.
-
-Nominated once as departmental mascot. Vomited on a diplomat. Now reassigned as an educational case study in "aesthetic intention versus biological consequence."
+Tours available Thursdays. No refunds.
 
 ---
 
