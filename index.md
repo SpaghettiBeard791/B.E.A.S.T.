@@ -7,6 +7,7 @@ Welcome to the official catalogue of hybrid lifeforms produced under the jurisdi
 ---
 
 ## Table of Contents  
+[UD-000: B.E.A.S.T. Headquarters](#ud-015-beast-headquarters)
 [UD-001: Elephaspider](#ud-001-elephaspider)  
 [UD-002: Penguiniguana](#ud-002-penguiniguana)  
 [UD-003: Girapincle](#ud-003-girapincle)  
@@ -21,7 +22,21 @@ Welcome to the official catalogue of hybrid lifeforms produced under the jurisdi
 [UD-012: Crustaviant](#ud-012-crustaviant)  
 [UD-013: Squirrpent](#ud-013-squirrpent)  
 [UD-014: Toaderfly](#ud-014-toaderfly)  
-[UD-015: B.E.A.S.T. Headquarters](#ud-015-beast-headquarters)
+
+
+---
+
+## UD-000: B.E.A.S.T. Headquarters
+**Catalogued Site:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.) Central Building  
+**Alias:** The Department of Unintelligent Design  
+
+Located at the intersection of ambition and oversight, the headquarters of B.E.A.S.T. is an architectural chimera composed of brutalist concrete slabs, neoclassical columns, and a misplaced glass atrium that reflects nothing but regret.
+
+Originally a repurposed opera house, then a municipal data center, then a taxidermy academy, the structure was never demolished—just continually built around. Elevators stop at unnumbered floors. Security checkpoints lead to gift shops. Half the building has no plumbing; the other half has too much.
+
+A banner above the main entrance reads: “Progress through Combination.” Someone spray-painted “Confusion through Design” beneath it in the mid-90s. The message remains.
+
+Tours available Thursdays. No refunds.
 
 ---
 
@@ -273,18 +288,6 @@ Rejected by florists, yet adored by surrealist painters.
 
 ---
 
-## UD-015: B.E.A.S.T. Headquarters
-**Catalogued Site:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.) Central Building  
-**Alias:** The Department of Unintelligent Design  
 
-Located at the intersection of ambition and oversight, the headquarters of B.E.A.S.T. is an architectural chimera composed of brutalist concrete slabs, neoclassical columns, and a misplaced glass atrium that reflects nothing but regret.
-
-Originally a repurposed opera house, then a municipal data center, then a taxidermy academy, the structure was never demolished—just continually built around. Elevators stop at unnumbered floors. Security checkpoints lead to gift shops. Half the building has no plumbing; the other half has too much.
-
-A banner above the main entrance reads: “Progress through Combination.” Someone spray-painted “Confusion through Design” beneath it in the mid-90s. The message remains.
-
-Tours available Thursdays. No refunds.
-
----
 
 *End of current specimen log.*
