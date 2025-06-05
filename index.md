@@ -135,108 +135,162 @@ File Code: BEAST/GRP-003/CRUST-MAMM
 ---
 
 ## UD-004: Swake
-**Catalogued by:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
-**File Code:** BEAST/SWAK-004/AMPHI-AVI  
 
-*Family:* Anatibranchidae  
-*Genus:* Quaxolotl  
-*Species:* Q. croakbillus  
+**Museum of Unintelligent Design**  
+**Specimen #UD-004**  
+**Common Name:** Swake  
+**Status:** Actively confused  
+**Habitat:** Wherever it can fall over safely
 
-Designed for simultaneous pond-lily aesthetics and water purification, the Swake is a blend of duck and axolotl. It retains the larval smile of the latter and the vaguely judgmental gaze of the former.
+**Description:**  
+Commissioned under Directive 6H-9 (“Birds are just fancy reptiles”), the Swake was engineered as a graceful union of swan and snake. What emerged instead was a neck-bound biomechanical miscalculation — an animal with such absurdly extended cervical anatomy that it collapses under the weight of its own elegance.
 
-The gills function underwater, but are also highly decorative. Its voice is a honk-gargle hybrid used mostly when surprised. Flippers permit sluggish swimming. It walks only backward, for reasons still unexplained.
+While capable of emitting both a hiss and a honk, it frequently defaults to a strained wheeze, often described as “a throat forgetting what species it belongs to.” Efforts to stabilize its posture with external scaffolding only made it more aerodynamic… in the wrong direction.
 
-Short-lived, buoyant, emotionally erratic. Frequently mistaken for bath toys.
+**Behavior:**  
+The Swake spends most of its time circling itself in search of structural clarity. When approached, it tries to appear intimidating, but often startles itself with its own reflection.
+
+**Diet:**  
+Small fish, pond weeds, and the occasional mid-sneeze mosquito. Eating is performed in a sequence of undulating attempts that result in minimal ingestion and maximal embarrassment.
+
+**Survival Rating:** 1/10  
+**Approved Purpose:** Teaching aid for spinal overengineering  
+**Archived By:** Dept. of Reptilian Elegance *(defunded due to neck-related incidents)*
+
 
 ---
 
 ## UD-005: Squawktopus
-**Catalogued by:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
-**File Code:** BEAST/SQTP-005/AVICEPH  
 
-*Family:* Parrotopodidae  
-*Genus:* Macropodae  
-*Species:* M. cacatentacula  
+**Museum of Unintelligent Design**  
+**Specimen #UD-005**  
+**Unofficial Taxonomy:** *Procellariiformes cephalopodia*
 
-A parrot with eight legs. Not wings. Legs.
+**Description:**  
+The Squawktopus is a deeply unbalanced convergence of seabird and cephalopod, presumably conceived during a fiscal surplus and an anatomical lapse in judgment. It possesses six asymmetrically arranged wings, none of which are sufficient for flight either individually or together. 
 
-Originally intended as a marine scout with vocal mimicry, it nests in kelp and screeches operatically when touched. Two legs are used for locomotion. The others are used to point accusatorily.
+Its two legs terminate in fully functional tentacles, enabling a style of terrestrial movement best described as “frantic dragging.” A continuous rustling sound often accompanies its advance, along with vocalizations that have caused mild dizziness and at least one spontaneous resignation.
 
-Diet: inkfish, crumbs, and disappointment.
+The Squawktopus’s eyes remain fixed in a state of permanent wide alertness — whether from fear, aggression, or existential confusion is unknown.
 
-Was briefly enrolled in a military communication pilot program before pecking the submarine controls.
+**Behavior:**  
+Attempts to release it into the wild have been unsuccessful; the creature invariably returns to the lab within hours, typically with a file folder clamped in its beak and an expression of grave concern. It shows a preference for dimly lit corridors and unsettling proximity.
+
+**Survival Rating:** 3/10  
+**Approved Purpose:** Avian-cephalopod diplomatic ambassador (project shelved)  
+**Archived By:** Dept. of Aerial Propulsion Alternatives
+
 
 ---
 
 ## UD-006: Jellybunny
-**Catalogued by:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
-**File Code:** BEAST/JLBN-006/CNIDOMAMM  
 
-*Family:* Leporonidae  
-*Genus:* Flophostoma  
-*Species:* F. bouncecenta  
+**Museum of Unintelligent Design**  
+**Specimen #UD-006**  
+**Unofficial Taxonomy:** *Pelagolepus cuniculiformis*
 
-Initially proposed for bioluminescent garden security, the Jellybunny is a fusion of jellyfish and rabbit that pulses with color during periods of emotional distress — which, for the Jellybunny, is constant.
+**Description:**  
+The Jellybunny drifts somewhere between accident and afterthought. Resembling a rabbit tragically reinterpreted by marine evolution, it features a bell-shaped gelatinous body from which hang numerous passive-aggressive tentacles. From the front, however, it presents the unmistakable face of a rabbit — wide-eyed, bewildered, and seemingly moments away from asking what it did to deserve this.
 
-It possesses a translucent, gelatinous body with floppy ears, trailing stinging tentacles, and an aversion to dry land. Its hops are unpredictable and often vertical. The creature uses its bioluminescence to communicate unease, startle insects, and attract lightning.
+The transition between mammalian and cnidarian anatomy is seamless in the worst way. There is no neck, no fur line, no mercy. The ears persist as upright sonar towers, useful for neither hearing nor hydrodynamics.
 
-Attempts to pet the Jellybunny result in mild electrostatic discharge and deep regret. It reproduces by budding. It apologizes by glowing mauve.
+**Behavior:**  
+Its mode of propulsion is uncertain, but its expression strongly suggests that wherever it goes, it did not intend to. It glides with a defeated wobble and shows neither initiative nor ambition, which has ironically made it a staff favorite.
 
-Now classified as a Class 3 Mood Hazard in domestic environments.
+**Notes:**  
+Completely defenseless, emotionally complex, and almost certainly edible — though no one has dared try.
+
+**Survival Rating:** 1.7/10  
+**Approved Purpose:** Comfort exhibit  
+**Archived By:** Dept. of Passive Bioforms
+
 
 ---
 
 ## UD-007: Eaglesnail
-**Catalogued by:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
-**File Code:** BEAST/EGSN-007/MOLLAVI  
 
-*Family:* Aeriogastropodidae  
-*Genus:* Aquilaviscus  
-*Species:* A. burdenae  
+**Museum of Unintelligent Design**  
+**Specimen #UD-007**  
+**Unofficial Taxonomy:** *Aves mollusca tragicus*
 
-Combining the nobility of the eagle with the architecture of a garden snail, the Eaglesnail was intended for long-range reconnaissance in difficult terrain. Unfortunately, it inherited none of the flight capacity and all of the weight constraints.
+**Description:**  
+The Eaglesnail is a noble predator trapped in a body that fundamentally misunderstands the concept of velocity. Possessing the regal head of an eagle and the majestic spiral shell of a terrestrial gastropod, this creature is perhaps the most literal embodiment of compromise ever committed to biology.
 
-Its massive shell, shaped like a turbine intake, houses delicate hollow bones. The wings are vestigial. The talons, however, are fully functional and mostly used to drag itself in melancholy circles.
+Despite retaining the eagle's keen eyesight and piercing gaze, the Eaglesnail's ability to hunt is nullified by its glacial locomotion and total lack of wings, talons, or dignity. Its body slumps listlessly across the landscape, dragging its spiraled burden behind it with all the urgency of continental drift.
 
-It emits a mournful screech when alarmed, or whenever anyone looks at it.
+**Behavior:**  
+Its expression often conveys the quiet horror of a once-proud species that has been tricked into retirement. Notably, the shell serves no known function beyond shame amplification and wind resistance.
 
-Popular among theoretical poets and banned in five national parks.
+**Notes:**  
+The Eaglesnail is not endangered, but one suspects it wouldn’t mind if it were.
+
+**Survival Rating:** 0.9/10  
+**Approved Purpose:** Symbol of professional burnout  
+**Archived By:** Dept. of Predatory Misapplications
+
 
 ---
 
 ## UD-008: Rhinosquito
-**Catalogued by:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
-**File Code:** BEAST/RHSQ-008/MAMMINSECT  
 
-*Family:* Dipcerae  
-*Genus:* Rhinobrachus  
-*Species:* R. lancifrons  
+**Museum of Unintelligent Design**  
+**Specimen #UD-008**  
+**Scientific designation:** *Rhinoceratula culiciformis*  
+**Family:** Hemodermata  
+**Order:** Confusoptera  
+**Phylum:** Misarthropoda  
+**Conservation Status:** Unrequested  
+**Flight Capability:** Alleged  
+**Natural Predators:** Gravity, windows, harsh winds, common sense
 
-A misguided attempt to create a self-armored pollinator, the Rhinosquito is a fusion of rhinoceros and mosquito. It is roughly the size of a wheelbarrow and buzzes with the intensity of distant construction equipment.
+**Encyclopedic Description:**  
+A maladaptive aerial ungulid belonging to no known ecological niche. *Rhinoceratula culiciformis* combines the cephalic features of a juvenile white rhinoceros with the thoracic structure of an overgrown mosquito. Its primary locomotive strategy consists of short, noisy ascents followed by prolonged, reluctant descents.
 
-Its horn doubles as a proboscis, though it has never successfully located a flower, fencepost, or target of any kind. Its wings generate enough turbulence to flatten nearby crops and strip paint. Its blood extraction process is both inefficient and deeply personal.
+The proboscis, inherited in form but not in function, is incapable of piercing organic matter and instead acts as a cumbersome forward ballast. Though technically equipped with wings, the Rhinosquito has never been observed achieving stable lift without external assistance or wind-based interventions.
 
-Rhinosquitoes are solitary, easily offended, and known to charge mirrors.
+**Field Notes (selectively bureaucratic):**  
+**Option A – Bureau of Misalignments, Form 342-A**  
+Observed hovering at approx. 2.7 cm altitude before succumbing to inner doubt. Recommend grounding subject under Article 7 of the Aerodynamic Incongruity Act.
 
-Deployment in agricultural zones was suspended indefinitely after the Helianthus Incident.
+**Option B – Naturalist's Log, 17 June**  
+Approached subject cautiously. It responded by falling over. Emits a faint, apologetic buzz. Local fauna have begun avoiding it out of secondhand embarrassment.
+
+**Option C – Failed Pest Control Memo**  
+Spray ineffective. Subject appears immune to both fear and pesticide. Complained softly before exiting under own weight.
+
+**Survival Rating:** 0.7/10  
+**Approved Purpose:** Aerial warning about ignoring mass distribution  
+**Archived By:** Dept. of Buoyant Miscalculations
+
 
 ---
 
 ## UD-009: Tigerchick
-**Catalogued by:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
-**File Code:** BEAST/TGCK-009/MAMMAVI  
 
-*Family:* Felichickidae  
-*Genus:* Roaravis  
-*Species:* R. yolkentigris  
+**Museum of Unintelligent Design**  
+**Specimen #UD-009**  
+**Scientific name:** *Panthera pollum*  
+**Family:** Felinavidae  
+**Order:** Predaviriformes  
+**Phylum:** Confusotheria  
+**Clade:** Avesish Mammaliformes  
+**Discovered:** Nest 14B, Abandoned Zoological Initiative  
+**Status:** Paradoxical
 
-Designed as a testbed for “scaled ferocity,” the Tigerchick merges the full musculature of a Bengal tiger with the peeping charm of a hatchling chick.
+**Encyclopedic Description:**  
+*Panthera pollum*, commonly known as the Tigerchick, is an apex predator in concept and a fledgling in execution. While its body boasts the full musculature, agility, and predatory patterning of *Panthera tigris*, its head remains that of a domestic poultry hatchling, severely limiting its practical ferocity.
 
-The resulting creature is a housecat-sized apex predator with powerful claws, a chirping roar, and the intense self-regard of a motivational speaker. Its feathers are soft, stripy, and prone to static cling. It naps 20 hours a day and dreams exclusively of conquest.
+Auditory output is limited to high-pitched chirps, though subjects have been observed attempting to roar with visible frustration. Its beak is nonfunctional for meat processing, and its eyes retain a blank, infantile stare regardless of context. Despite its strength, prey rarely takes flight — most are too confused to react.
 
-Tigerchicks are territorial, dramatic, and allergic to gluten.
+**🗂️ Bureau of Interphylum Affairs – Field Note Excerpt:**  
+Subject displays irregular stalking behavior, pausing every few steps to peep. Struck fear into no known species. When observed in mirrored surfaces, appears startled by its own face.
 
-They are illegal in apartment complexes and nearly all jurisdictions with sense.
+**🪶 Zoological Disposition Report (Form 802-F):**  
+Flightless. Fangless. Peerless only in its inability to meet the expectations set by either of its ancestral lines. Attempts to incubate its own haunches during nesting phase.  
+**Approved Purpose:** Display under “Design Oversights”  
+**Survival Rating:** 1.4/10  
+**Archived By:** Dept. of Carnivorous Misfires
+
 
 ---
 
