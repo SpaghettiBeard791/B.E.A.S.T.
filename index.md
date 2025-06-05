@@ -113,28 +113,93 @@ Was briefly enrolled in a military communication pilot program before pecking th
 
 ---
 
-## UD-006: Jellybunny  
-A translucent bunny with jellyfish tentacles instead of ears. Designed for soft-touch pest control. Instead, it startles children and paralyzes small birds. Hops erratically and leaves a trail of bioluminescent dread.
+## UD-006: Jellybunny
+**Catalogued by:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
+**File Code:** BEAST/JLBN-006/CNIDOMAMM  
+
+*Family:* Leporonidae  
+*Genus:* Flophostoma  
+*Species:* F. bouncecenta  
+
+Initially proposed for bioluminescent garden security, the Jellybunny is a fusion of jellyfish and rabbit that pulses with color during periods of emotional distress — which, for the Jellybunny, is constant.
+
+It possesses a translucent, gelatinous body with floppy ears, trailing stinging tentacles, and an aversion to dry land. Its hops are unpredictable and often vertical. The creature uses its bioluminescence to communicate unease, startle insects, and attract lightning.
+
+Attempts to pet the Jellybunny result in mild electrostatic discharge and deep regret. It reproduces by budding. It apologizes by glowing mauve.
+
+Now classified as a Class 3 Mood Hazard in domestic environments.
 
 ---
 
-## UD-007: Eaglesnail  
-A majestic eagle fused to an enormous snail shell. Its wings are vestigial, its talons useless against its own inertia. It watches prey from above, then forgets why. Has a piercing screech of existential disappointment.
+## UD-007: Eaglesnail
+**Catalogued by:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
+**File Code:** BEAST/EGSN-007/MOLLAVI  
+
+*Family:* Aeriogastropodidae  
+*Genus:* Aquilaviscus  
+*Species:* A. burdenae  
+
+Combining the nobility of the eagle with the architecture of a garden snail, the Eaglesnail was intended for long-range reconnaissance in difficult terrain. Unfortunately, it inherited none of the flight capacity and all of the weight constraints.
+
+Its massive shell, shaped like a turbine intake, houses delicate hollow bones. The wings are vestigial. The talons, however, are fully functional and mostly used to drag itself in melancholy circles.
+
+It emits a mournful screech when alarmed, or whenever anyone looks at it.
+
+Popular among theoretical poets and banned in five national parks.
 
 ---
 
-## UD-008: Rhinosquito  
-A rhino-sized mosquito with a horn and a thirst for confusion. Designed to aerate wetlands while managing large herbivore populations. Instead, it vibrates uncontrollably and drains water troughs dry. Banned near livestock.
+## UD-008: Rhinosquito
+**Catalogued by:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
+**File Code:** BEAST/RHSQ-008/MAMMINSECT  
+
+*Family:* Dipcerae  
+*Genus:* Rhinobrachus  
+*Species:* R. lancifrons  
+
+A misguided attempt to create a self-armored pollinator, the Rhinosquito is a fusion of rhinoceros and mosquito. It is roughly the size of a wheelbarrow and buzzes with the intensity of distant construction equipment.
+
+Its horn doubles as a proboscis, though it has never successfully located a flower, fencepost, or target of any kind. Its wings generate enough turbulence to flatten nearby crops and strip paint. Its blood extraction process is both inefficient and deeply personal.
+
+Rhinosquitoes are solitary, easily offended, and known to charge mirrors.
+
+Deployment in agricultural zones was suspended indefinitely after the Helianthus Incident.
 
 ---
 
-## UD-009: Tigerchick  
-A full-sized tiger with the head and feet of a baby chick. Engineered to be both fierce and adorable; it accomplishes neither. Cannot roar. Pecks gently at prey. Often mistaken for a poorly drawn myth.
+## UD-009: Tigerchick
+**Catalogued by:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
+**File Code:** BEAST/TGCK-009/MAMMAVI  
+
+*Family:* Felichickidae  
+*Genus:* Roaravis  
+*Species:* R. yolkentigris  
+
+Designed as a testbed for “scaled ferocity,” the Tigerchick merges the full musculature of a Bengal tiger with the peeping charm of a hatchling chick.
+
+The resulting creature is a housecat-sized apex predator with powerful claws, a chirping roar, and the intense self-regard of a motivational speaker. Its feathers are soft, stripy, and prone to static cling. It naps 20 hours a day and dreams exclusively of conquest.
+
+Tigerchicks are territorial, dramatic, and allergic to gluten.
+
+They are illegal in apartment complexes and nearly all jurisdictions with sense.
 
 ---
 
-## UD-010: Sharkmole  
-A burrowing predator with a shark’s head and a mole’s claws. Cannot see, smell, or swim properly. Digests earthworms through gill slits. Hunted its own creators during trials. Now contained under reinforced topsoil.
+## UD-010: Sharkmole
+**Catalogued by:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
+**File Code:** BEAST/SHMO-010/CARTIMAMM  
+
+*Family:* Subserpiscidae  
+*Genus:* Dermalburrowus  
+*Species:* D. blindomaximus  
+
+Originally conceptualized for underwater tunneling, the Sharkmole was designed to cut through both soil and sedimentary rock using its abrasive snout and redundant teeth. Unfortunately, it does so constantly, regardless of context.
+
+Blind, burly, and bristling with cartilage, the Sharkmole responds to vibration with explosive upward motion and bites at shoelaces, oars, and power cables with equal fervor.
+
+Its dermal denticles shed continuously and are a choking hazard. It neither swims nor digs in straight lines and is considered a navigational hazard to divers and utility workers alike.
+
+Currently classified as a Class 2 Infrastructure Threat.
 
 ---
 
