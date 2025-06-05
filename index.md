@@ -26,71 +26,111 @@ Welcome to the official catalogue of hybrid lifeforms produced under the jurisdi
 
 ---
 
-## UD-000: B.E.A.S.T. Headquarters
-**Catalogued Site:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.) Central Building  
-**Alias:** The Department of Unintelligent Design  
+## UD-000: Bureau Description
 
-Located at the intersection of ambition and oversight, the headquarters of B.E.A.S.T. is an architectural chimera composed of brutalist concrete slabs, neoclassical columns, and a misplaced glass atrium that reflects nothing but regret.
+**The Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.) Headquarters**  
+*Est. 1952. Repurposed Continuously Since.*
 
-Originally a repurposed opera house, then a municipal data center, then a taxidermy academy, the structure was never demolished—just continually built around. Elevators stop at unnumbered floors. Security checkpoints lead to gift shops. Half the building has no plumbing; the other half has too much.
+Located at the vague intersection of Biological Urgency and Administrative Excess, the B.E.A.S.T. headquarters is a sprawling, architecturally conflicted facility that seems to have been redesigned mid-construction and never questioned since.
 
-A banner above the main entrance reads: “Progress through Combination.” Someone spray-painted “Confusion through Design” beneath it in the mid-90s. The message remains.
+### Exterior Description:
+- The building is shaped like a horseshoe trapped in a Möbius loop, with loading docks that lead directly into filing rooms, and greenhouses that face inward toward a concrete wall.
+- Its main façade blends brutalist concrete slabs with neoclassical pillars, topped by a giant revolving double helix that hasn’t worked since 1997.
+- Above the main entrance is a Latin motto that no one has successfully translated. Experts believe it may just be *lorem ipsum* carved in confidence.
 
-Tours available Thursdays. No refunds.
+### Interior Features:
+- Hallway A6 leads only to itself.
+- Offices are labeled alphabetically but arranged in non-Euclidean geometry.
+- Specimens are housed in the Phylo-Chimerical Containment Atrium, also known as "The Lobby".
+- The cafeteria serves meals with no known food groups. One daily special is simply called “Gland Option.”
+
+### Staff and Structure:
+- The bureau is organized into 16 Divisions, none of which communicate.
+- The org chart is printed on vellum and stored in a humidity-controlled vault, despite everyone ignoring it.
+- A loudspeaker announces mysterious “Directive Renewals” daily at 11:47 AM, usually followed by the sound of wet paper being stamped.
+
+### Public-Facing Description (from the official pamphlet):
+> “B.E.A.S.T. is committed to advancing the boundaries of biological possibility in order to foster a sustainable, self-refining ecosystem of innovation, regardless of cost, public reception, or outcome consistency.”
+
+*Unofficial graffiti in the staff restroom reads:*  
+**“Because we could.”**
+
 
 ---
 
 ## UD-001: Elephaspider
-**Catalogued by:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
-**File Code:** BEAST/ELSP-001/ARTHROMAMM  
 
-*Family:* Pachyarachnidae  
-*Genus:* Trunkotarsus  
-*Species:* T. fumblensis  
+**Museum of Unintelligent Design**  
+**Specimen #UD-001**  
+**Common Name:** Trembling Eight-Legged Pachyderm  
+**Status:** Extinct within minutes of commissioning  
+**Habitat:** Theoretical
 
-Created under the B.E.A.S.T. Heavy-Lift Microfauna Initiative, the Elephaspider combines the structural frame of a jumping spider with the mass and disposition of a small elephant. The result is neither subtle nor hygienic.
+Engineered under Directive 7B-12 ("More Legs = More Good"), the Elephaspider was conceived as a marvel of strength and agility. Unfortunately, no subcommittee reviewed the load-bearing limitations of arachnid legs when paired with a six-ton mammal. The prototype collapsed within four seconds of standing, issuing a low, wheezing trumpet and a cloud of dust.
 
-Despite its eight jointed legs, the creature struggles to remain upright and frequently topples in high winds. Its compound eyes are incapable of closing, giving it a perpetually astonished expression. Its trunk is used primarily for balance and sneezing.
+Attempts to reinforce its legs with optimism were unsuccessful.
 
-Originally proposed for “vertical web-based cargo elevation,” it quickly became clear that the Elephaspider was more adept at tearing down infrastructure than building it. Its webs are thick, trunk-dragged trails of adhesive sap that immobilize prey and maintenance staff alike.
+**Survival Rating:** 0.3/10  
+**Approved Purpose:** Architectural paperweight  
+**Archived By:** Dept. of Weight Distribution *(closed due to liability concerns)*
 
-Currently banned from urban testing zones and declared legally “not a forklift.”
 
 ---
 
 ## UD-002: Penguiniguana
-**Catalogued by:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
-**File Code:** BEAST/PNIG-002/REPTAVI  
 
-*Family:* Iguaniscidae  
-*Genus:* Glaciquana  
-*Species:* G. tuxedentata  
+**Museum of Unintelligent Design**  
+**Specimen #UD-002**  
+**Common Name:** Antarctic Lizardfowl  
+**Status:** Flash-frozen in field trial  
+**Habitat:** Conceptually universal, physically fatal
 
-The Penguiniguana was envisioned as an amphibious beach guardian, combining the stoic patience of a penguin with the solar-thermal capabilities of a reptile. Unfortunately, it inherited the waddling indecision of both.
+Conceived under directive 12-D (“Cold + Cold = Works in Cold”), the Penguiniguana was hailed as a triumph of adaptive synthesis — blending the aquatic grace of a penguin with the durable simplicity of a reptile. Unfortunately, no physiology review was conducted to reconcile the species’ cold-blooded metabolism with its intended Antarctic deployment.
 
-Its thick scaly skin is lined with black-and-white feather patches, making it appear dressed for an awkward formal event. Its flipper-legs are clawed, allowing it to grip rocks, but not release them without outside assistance.
+Field observations were brief. The first subject blinked once, exhaled a small puff of steam, and promptly became a statue.
 
-Penguiniguanas sun themselves for eight hours before entering shallow water, where they forget why they came. Their diet is unclear. Their mating rituals involve slow nodding and tail flicks, often directed at buoys.
+**Survival Rating:** 2/10 (revised to 0/10 after 90 seconds)  
+**Approved Purpose:** Ice sculpture prototype  
+**Archived By:** Dept. of Climate Versatility *(under investigation)*
 
-Originally part of Coastal Sentinel Project 4C. Now employed primarily as an obstacle in kayaking routes.
 
 ---
 
 ## UD-003: Girapincle
-**Catalogued by:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
-**File Code:** BEAST/GRP-003/CRUST-MAMM  
 
+**Museum of Unintelligent Design**  
+**Specimen #UD-003**  
+**Common Name:** Girapincle  
+**Status:** Marginally ambulatory; psychologically unresolved  
+**Habitat:** Brackish floodplains and estuarine scrublands
+
+**Taxonomy:**  
 *Family:* Giraffocarcinidae  
+*Order:* Longineckida  
 *Genus:* Macropalpinocamelopardalis  
-*Species:* M. crustaceocephalus  
+*Species:* M. crustaceocephalus
 
-The Girapincle is a biologically implausible fusion of terrestrial browsing mammal and marine arthropod. It combines the upper anatomy of a juvenile giraffe with the armored body and grasping pincers of a common crab—presumably for reasons now lost to institutional misfiling.
+**Description:**  
+The Girapincle is a hybrid organism combining the juvenile upper anatomy of a giraffe with the chitinous body of a marine crab. This towering, mismatched creature features ossicones, a mild expression, and an improbable neck mounted atop a dense exoskeleton — a silhouette that has reportedly triggered resignation letters.
 
-Its elongated neck and delicate ossicones appear comically mismatched with the chitinous exoskeleton and eight spindly legs designed for sideways scuttling. Notably, the Girapincle is unable to perform either galloping or proper molting, often attempting both at once with limited success.
+Its eight legs allow it to scuttle awkwardly, while two oversized pincers serve no clear purpose beyond gesturing disapproval at passing researchers. It cannot gallop. It cannot molt. Sometimes it attempts both.
 
-When startled, it emits a brittle rustling sound and attempts to sway menacingly—usually in the wrong direction. The creature’s two primary claws are capable of fine motor manipulation, yet it exhibits no interest in tool use or abstract thought.
+**Behavior:**  
+The Girapincle’s instincts are internally divided. When startled, it simultaneously retracts (like a crab) and tries to flee (like a giraffe), resulting in flailing, splashing, and paperwork. Navigation through mangroves or tidal flats resembles a malfunctioning coffee table.
 
-Originally approved under Sub-Directive 14(b): "Enhancement of Biodiversity Through Inter-Phylum Synergy." The Girapincle remains a symbol of departmental ambition, procedural opacity, and the triumph of form over function.
+**Diet:**  
+Feeds sporadically on algae, sea lettuce, and acacia leaves — depending on which half of the body asserts dominance. Attempts to coordinate have proven inconclusive and often end in committee.
+
+**Reproduction:**  
+Unknown. One documented mating display featured a “clamorous clicking ritual” and self-toppling. No juveniles have been verified. B.E.A.S.T. suspects either spontaneous generation or administrative error.
+
+**Notes from B.E.A.S.T.:**  
+Approved under Sub-Directive 14(b): “Enhancement of Biodiversity Through Inter-Phylum Synergy.”  
+Classified Category Orange: *Handle Only With Bureaucratic Gloves.*
+
+Archived By: Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
+File Code: BEAST/GRP-003/CRUST-MAMM
+
 
 ---
 
