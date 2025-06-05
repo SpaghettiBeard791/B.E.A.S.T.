@@ -295,72 +295,134 @@ Flightless. Fangless. Peerless only in its inability to meet the expectations se
 ---
 
 ## UD-010: Sharkmole
-**Catalogued by:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
-**File Code:** BEAST/SHMO-010/CARTIMAMM  
 
-*Family:* Subserpiscidae  
-*Genus:* Dermalburrowus  
-*Species:* D. blindomaximus  
+**Museum of Unintelligent Design**  
+**Specimen #UD-010**  
+**Scientific name:** *Chondromys absurdus*  
+**Family:** Gnathocephala  
+**Order:** Dermafiniformes  
+**Habitat:** Brackish tunnel systems (none verified)  
+**Feeding mechanism:** Unclear  
+**Teeth:** Present, but discouraging  
+**Swim style:** Vertical floundering  
+**Observed behavior:** Digging into dry sand with visible confusion
 
-Originally conceptualized for underwater tunneling, the Sharkmole was designed to cut through both soil and sedimentary rock using its abrasive snout and redundant teeth. Unfortunately, it does so constantly, regardless of context.
+**Encyclopedic Description:**  
+*Chondromys absurdus*, colloquially known as the Sharkmole, is an evolutionary cul-de-sac born of conflicting intentions. Anatomically, it possesses the hydrodynamic profile of a juvenile reef shark, but its skin is patchy, translucent, and poorly insulated — characteristics inherited from its naked mole rat ancestry.
 
-Blind, burly, and bristling with cartilage, the Sharkmole responds to vibration with explosive upward motion and bites at shoelaces, oars, and power cables with equal fervor.
+Its most prominent features are two rodent-style incisors located where predatory teeth should be. These serve no apparent function underwater, though they occasionally chatter in what may be fear, cold, or longing. The pectoral fins are vestigial, and its tail lacks thrust; swimming is mostly accidental.
 
-Its dermal denticles shed continuously and are a choking hazard. It neither swims nor digs in straight lines and is considered a navigational hazard to divers and utility workers alike.
+It is believed to be blind in both eyes and echolocationally tone-deaf.
 
-Currently classified as a Class 2 Infrastructure Threat.
+**🧾 Misclassified Aquarium Intake Note:**  
+Specimen arrived in a bucket labeled “Do Not Return to Ocean.” Escaped three times, but only across the floor. Attempts to burrow through tile unsuccessful. Bit a hose once and cried.
+
+**📉 Bureau of Marine Misassignments, Form 77-G:**  
+Water-incompatible. Land-incompatible. Cavity-prone.  
+**Reclassification pending as:** “ambient”  
+**Survival Rating:** 0.9/10  
+**Approved Purpose:** Morale-dampener in open-plan aquaria  
+**Archived By:** Dept. of Subaquatic Regrets
+
 
 ---
 
 ## UD-011: Slotheetah
-**Catalogued by:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
-**File Code:** BEAST/SLCH-011/FELID-MISC  
 
-*Family:* Bradynonidae  
-*Genus:* Acchelopygus  
-*Species:* A. delayensis  
+**Museum of Unintelligent Design**  
+**Specimen #UD-011**  
+**Scientific name:** *Acchelopygus delayensis*  
+**Family:** Bradynonidae  
+**Order:** Dragiformes  
+**Common Name:** Slotheetah  
+**Status:** Perpetually conflicted  
 
-The Slotheetah is a deeply confused amalgam of cheetah and sloth, designed with the apparent intent of merging “explosive speed” with “energy preservation.” The result is a creature capable of incredible bursts of velocity—usually several hours after the initial impulse.
+**Description:**  
+The Slotheetah is a deeply confused amalgam of *Acinonyx jubatus* (cheetah) and *Bradypus variegatus* (three-toed sloth), designed with the apparent intent of merging “explosive speed” with “energy preservation.” The result is a creature capable of incredible bursts of velocity—usually several hours after the initial impulse.
 
-It features a long, lean feline body draped in shaggy, moss-mottled fur, with limbs that dangle like rope when not reluctantly employed. The cheetah’s facial stripes are present but droop downward in a permanent expression of regret. Its claws are both retractable and hooked, ideal for either pouncing or slowly grasping the same branch for three days.
+It features a long, lean feline body draped in shaggy, moss-mottled fur, with limbs that dangle like loose rope when not reluctantly employed. The cheetah’s characteristic tear-mark facial stripes are present but droop downward in a permanent expression of regret. Its claws are both retractable and hooked, ideal for either pouncing or slowly grasping the same branch for three days.
 
-When startled, the Slotheetah may emit a screech and attempt to run—often forgetting which direction, or that it's still lying down. Hunting technique: wait for prey to die of old age or wander into its mouth.
+**Behavior:**  
+Behavior is difficult to interpret, as most observable states resemble sleep. In the wild, Slotheetahs will climb halfway up a tree, fall asleep mid-pursuit, and dream vividly of hunting success.
 
-Designed under the “Predator Efficiency Enhancement Program.” Currently reassigned as mascot of the Department of Initiative Paralysis.
+Their hunting technique, dubbed “ambush inertia,” involves waiting for prey to die of old age or wander into their mouth. When startled, the Slotheetah may emit a sudden screech and attempt to run—often forgetting which direction, or that it's still lying down.
+
+**Feeding:**  
+Diet is mixed: occasionally carnivorous but mostly opportunistic. Prefers unmoving food. Has been known to starve in rooms full of lettuce due to hesitation.
+
+**Reproduction:**  
+Reproductive cycles are irregular and confusing. Mating calls consist of slow, melodic purrs followed by a startled chirp months later. Offspring are born in single, dramatically overdue events.
+
+**Notes from B.E.A.S.T.:**  
+Initially proposed as part of the "Predator Efficiency Enhancement Program," the Slotheetah was deemed a “case study in kinetic negation.”  
+Currently assigned as mascot to the Department of Initiative Paralysis.
+
 
 ---
 
 ## UD-012: Crustaviant
-**Catalogued by:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
-**File Code:** BEAST/CRVG-012/AVICRUST  
 
-*Family:* Laridecapodidae  
-*Genus:* Scuttivolans  
-*Species:* S. maladaptus  
+**Museum of Unintelligent Design**  
+**Specimen #UD-012**  
+**Scientific name:** *(unofficial designation pending)*  
+**Common Name:** Crustaviant  
+**Status:** Functionally unstable  
 
-The Crustaviant is a half-seagull, half-prawn hybrid developed as a "littoral-zone cleansing organism with autonomous sorting capability." Intended to scoop floating waste with claws and fly it inland, the result was a creature fundamentally confused about whether it should land, swim, or molt.
+**Description:**  
+The Crustaviant is a half-seagull, half-prawn hybrid developed by B.E.A.S.T. as a "littoral-zone cleansing organism with autonomous sorting capability." Intended to scoop floating waste with its crustacean claws and transport it inland via flight, the result was a creature fundamentally confused about whether it should land, swim, or molt.
 
-Its upper body is that of a gull, complete with beady eyes and an accusatory screech. Below the wings, however, the thorax transitions abruptly into a segmented, armored prawn abdomen. Two oversized pincers hang where feet might be expected, and eight smaller legs dangle uselessly behind.
+Its upper body is that of a common gull, complete with beady eyes and a loud, accusatory screech. Below the wings, however, the thorax transitions abruptly into the segmented, armor-plated abdomen of a giant prawn. Two oversized pincers hang where feet might be expected, and eight smaller legs dangle uselessly behind — all optimized for neither traction nor grace.
 
-Crustaviants circle coastlines in tight, panicked loops, attempting to land on their own claws. Their grooming rituals are intense and futile. When stressed (which is constant), they emit snapping sounds and drop small pebbles on observers.
+**Behavior:**  
+Crustaviants are observed circling coastlines in tight, panicked loops, occasionally attempting to land on their own claws. When stressed (which is constant), they emit a series of snapping sounds and drop small pebbles on passersby.
 
-Originally a flagship under Initiative 7.3B: “Marine Avian Modular Utility Chassis.” Reclassified as aesthetic-only following several public disturbances.
+Their grooming rituals are intense and futile. They molt uncontrollably in warmer months and have been known to pinch their own wings mid-flight.
+
+**Diet:**  
+Nominally scavengers. Designed to consume plastics, dead fish, and shoreline detritus.  
+In reality, they peck at food wrappers, flee from fish, and develop strong emotional attachments to Styrofoam.
+
+**Reproduction:**  
+Lays eggs in tidal zones that immediately float out to sea. Juveniles hatch into seawater, imprint on driftwood, and disappear forever.
+
+**B.E.A.S.T. Notes:**  
+The Crustaviant was a flagship project under Initiative #7.3B: “Marine Avian Modular Utility Chassis.”  
+Following a series of public disturbances and two pincered kayakers, the specimen was reclassified as non-extractive and aesthetic-only.
+
 
 ---
 
 ## UD-013: Squirrpent
+
+**Museum of Unintelligent Design**  
+**Specimen #UD-013**  
+**Scientific name:** *Gnathopellis impalatus*  
+**Common Name:** Squirrpent  
+**Status:** Rapidly mobile; nutritionally doomed  
 **Catalogued by:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
 **File Code:** BEAST/SQNK-013/RODHERP  
 
-*Family:* Sciuridaephidae  
-*Genus:* Gnathopellis  
-*Species:* G. impalatus  
+**Description:**  
+The Squirrpent is a lean, elongated hybrid between an Eastern gray squirrel (*Sciurus carolinensis*) and a venomous asp (*Naja aspicornea*), spliced together in the service of urban waste management with arboreal reach. The plan: use snake-like flexibility to slither into tight garbage spaces, with squirrel dexterity to manipulate litter and detritus.  
+The reality: a perpetually coiled blur of fur and frustration.
 
-The Squirrpent is a lean, elongated hybrid between squirrel and snake, spliced in the service of urban waste management. The front half is an energetic, fuzzy squirrel with twitchy limbs and a bushy tail at the rear. The head is serpentine—with oversized fangs designed to puncture waste packaging.
+The Squirrpent’s long, sleek body retains the bushy tail of a squirrel (for balance, or possibly morale), but its head is serpentine — complete with hollow fangs designed to deliver venom to hostile packaging.  
+It can leap, dart, and cling to vertical surfaces, but its powerful fangs prevent any successful mastication. Nuts, its natural craving, end up skewered and stuck on the fangs — forming what field researchers call “fang snacks,” which it attempts to shake off for hours.
 
-In theory, it could slither into tight bins, retrieve recyclable materials, and exit gracefully. In practice, it spends most of its time with a nut impaled on one fang, jerking its head and making wet squeaks.
+**Behavior:**  
+Highly energetic and easily startled, the Squirrpent launches itself from branch to branch in erratic arcs, hissing reflexively at anything circular or crunchy. Prey includes leaves, bottle caps, and the occasional unattended headphone.  
+When calm, it curls its tail around its face and sulks. It shows signs of emotional recognition, particularly when mocked for its fang-nut predicament.
 
-Prey includes bottle caps, sandwich crusts, and shoelaces. Highly mobile, easily startled, and emotionally vulnerable. Juveniles often spend their early weeks attempting to unskewer their first meal.
+**Feeding:**  
+Consumes only soft organic matter. Nuts, seeds, and most garbage items result in fang-jams and prolonged headshakes. Several units have been found dragging pine cones for weeks.
+
+**Reproduction:**  
+Lays clutches of three in tree hollows, usually alongside stolen sandwich wrappers. Juveniles inherit neither judgment nor fang coordination and spend their first year impaled on acorns.
+
+**B.E.A.S.T. Notes:**  
+Originally designated under Project Urban ForageFlex.  
+Currently reassigned to passive observation zones and classified as “bio-ironic.”
+
 
 ---
 
