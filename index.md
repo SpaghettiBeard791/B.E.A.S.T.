@@ -25,13 +25,39 @@ Welcome to the official catalogue of hybrid lifeforms produced under the jurisdi
 
 ---
 
-## UD-001: Elephaspider  
-An elephant with eight legs, spinnerets, and a trunk that doubles as a web-launcher. Designed for high-load cargo webbing. Instead, it collapses under its own mass and becomes stuck in its own silk. Researchers report a haunting trumpet-chitter when agitated.
+## UD-001: Elephaspider
+**Catalogued by:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
+**File Code:** BEAST/ELSP-001/ARTHROMAMM  
+
+*Family:* Pachyarachnidae  
+*Genus:* Trunkotarsus  
+*Species:* T. fumblensis  
+
+Created under the B.E.A.S.T. Heavy-Lift Microfauna Initiative, the Elephaspider combines the structural frame of a jumping spider with the mass and disposition of a small elephant. The result is neither subtle nor hygienic.
+
+Despite its eight jointed legs, the creature struggles to remain upright and frequently topples in high winds. Its compound eyes are incapable of closing, giving it a perpetually astonished expression. Its trunk is used primarily for balance and sneezing.
+
+Originally proposed for “vertical web-based cargo elevation,” it quickly became clear that the Elephaspider was more adept at tearing down infrastructure than building it. Its webs are thick, trunk-dragged trails of adhesive sap that immobilize prey and maintenance staff alike.
+
+Currently banned from urban testing zones and declared legally “not a forklift.”
 
 ---
 
-## UD-002: Penguiniguana  
-A cold-blooded bird-reptile hybrid. Scales meet tuxedo plumage in a creature that both sunbathes and ice-dives, poorly. Designed to thrive in all climates; now shivers in deserts and overheats in snow. Its only consistent behavior is passive sulking.
+## UD-002: Penguiniguana
+**Catalogued by:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
+**File Code:** BEAST/PNIG-002/REPTAVI  
+
+*Family:* Iguaniscidae  
+*Genus:* Glaciquana  
+*Species:* G. tuxedentata  
+
+The Penguiniguana was envisioned as an amphibious beach guardian, combining the stoic patience of a penguin with the solar-thermal capabilities of a reptile. Unfortunately, it inherited the waddling indecision of both.
+
+Its thick scaly skin is lined with black-and-white feather patches, making it appear dressed for an awkward formal event. Its flipper-legs are clawed, allowing it to grip rocks, but not release them without outside assistance.
+
+Penguiniguanas sun themselves for eight hours before entering shallow water, where they forget why they came. Their diet is unclear. Their mating rituals involve slow nodding and tail flicks, often directed at buoys.
+
+Originally part of Coastal Sentinel Project 4C. Now employed primarily as an obstacle in kayaking routes.
 
 ---
 
@@ -53,13 +79,37 @@ Originally approved under Sub-Directive 14(b): "Enhancement of Biodiversity Thro
 
 ---
 
-## UD-004: Swake  
-A snake with wings too small to lift it, fused with the territorial personality of a drake. It slithers angrily in circles and strikes at anything reflective. The wings function mainly as intimidation fans. Emits a hiss-chirp hybrid sound.
+## UD-004: Swake
+**Catalogued by:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
+**File Code:** BEAST/SWAK-004/AMPHI-AVI  
+
+*Family:* Anatibranchidae  
+*Genus:* Quaxolotl  
+*Species:* Q. croakbillus  
+
+Designed for simultaneous pond-lily aesthetics and water purification, the Swake is a blend of duck and axolotl. It retains the larval smile of the latter and the vaguely judgmental gaze of the former.
+
+The gills function underwater, but are also highly decorative. Its voice is a honk-gargle hybrid used mostly when surprised. Flippers permit sluggish swimming. It walks only backward, for reasons still unexplained.
+
+Short-lived, buoyant, emotionally erratic. Frequently mistaken for bath toys.
 
 ---
 
-## UD-005: Squawktopus  
-A parrot with octopus tentacles instead of legs. Mimics speech and then slaps the source. Flightless due to weight distribution. Intelligent but irritable. Prefers high perches and immediately regrets reaching them.
+## UD-005: Squawktopus
+**Catalogued by:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
+**File Code:** BEAST/SQTP-005/AVICEPH  
+
+*Family:* Parrotopodidae  
+*Genus:* Macropodae  
+*Species:* M. cacatentacula  
+
+A parrot with eight legs. Not wings. Legs.
+
+Originally intended as a marine scout with vocal mimicry, it nests in kelp and screeches operatically when touched. Two legs are used for locomotion. The others are used to point accusatorily.
+
+Diet: inkfish, crumbs, and disappointment.
+
+Was briefly enrolled in a military communication pilot program before pecking the submarine controls.
 
 ---
 
