@@ -20,8 +20,8 @@ Welcome to the official catalogue of hybrid lifeforms produced under the jurisdi
 [UD-011: Slotheetah](#ud-011-slotheetah)  
 [UD-012: Crustaviant](#ud-012-crustaviant)  
 [UD-013: Squirrpent](#ud-013-squirrpent)  
-[UD-014: Lobterfly](#ud-014-lobterfly)  
-[UD-015: Toaderfly](#ud-015-toaderfly)
+[UD-014: Toaderfly](#ud-014-toaderfly)  
+[UD-015: B.E.A.S.T. Headquarters](#ud-015-beast-headquarters)
 
 ---
 
