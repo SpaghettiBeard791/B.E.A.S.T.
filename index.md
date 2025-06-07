@@ -3,6 +3,7 @@
 **Also known as: The Department of Unintelligent Design**
 
 Welcome to the official catalogue of hybrid lifeforms produced under the jurisdiction of B.E.A.S.T.—an institution committed to reimagining biology in ways nature never requested.
+Written by ChatGPT.
 
 ---
 
