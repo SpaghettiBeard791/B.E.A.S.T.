@@ -21,7 +21,7 @@ Welcome to the official catalogue of hybrid lifeforms produced under the jurisdi
 [UD-011: Slotheetah](#ud-011-slotheetah)  
 [UD-012: Crustaviant](#ud-012-crustaviant)  
 [UD-013: Squirrpent](#ud-013-squirrpent)  
-[UD-014: Toaderfly](#ud-014-toaderfly)  
+
 
 
 ---
@@ -424,23 +424,6 @@ Originally designated under Project Urban ForageFlex.
 Currently reassigned to passive observation zones and classified as “bio-ironic.”
 
 
----
-
-## UD-014: Toaderfly
-**Catalogued by:** Bureau of Evolutionary Alternatives and Solutions in Transgenics (B.E.A.S.T.)  
-**File Code:** BEAST/TDFL-014/AMPHIBINSECT  
-
-*Family:* Bufolepididae  
-*Genus:* Lickaptera  
-*Species:* L. glamorglomus  
-
-Created to promote “beauty with utility,” the Toaderfly is a vivid blend of toad and butterfly, combining warts and wings with tragic majesty. It was envisioned as an airborne bug-reduction system capable of inspiring awe and mild discomfort.
-
-Its body is lumpy, moist, and entirely unfit for flight. Its wings, though expansive and iridescent, are ill-suited to supporting its bulk and instead serve as visual decoys for predators and romantics. It mostly shuffles along garden beds while wheezing.
-
-Males sing by croaking in chordal clusters. Females prefer silence and camouflage. Both secrete a hallucinogenic slime when threatened, excited, or lightly complimented.
-
-Rejected by florists, yet adored by surrealist painters.
 
 ---
 
